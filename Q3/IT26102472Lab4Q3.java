@@ -18,6 +18,5 @@ public class IT26102472Lab4Q3 {
                                 
         System.out.println(result);
         
-        input.close();
     }
 }
